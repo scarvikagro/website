@@ -1,3 +1,12 @@
 # Scarvik Landing Page
 
-Este repositório contém uma página simples de apresentação para o negócio Scarvik. Para visualizar localmente, basta abrir o arquivo `index.html` em seu navegador preferido.
+Landing page responsiva desenvolvida com Next.js, Tailwind CSS e TypeScript.
+
+## Desenvolvendo localmente
+
+```bash
+npm install
+npm run dev
+```
+
+Abra `http://localhost:3000` no navegador para visualizar.
